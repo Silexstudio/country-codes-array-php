@@ -1,5 +1,4 @@
 <?php
-
 const COUNTRIES = array(
     'AF' => 'Afghanistan',
     'AX' => 'Åland Islands',
@@ -250,4 +249,4 @@ const COUNTRIES = array(
     'YE' => 'Yemen',
     'ZM' => 'Zambia',
     'ZW' => 'Zimbabwe'
-};
+);
